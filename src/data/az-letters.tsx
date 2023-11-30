@@ -1,0 +1,1 @@
+const letters=[{typo:'A'},{typo:'B'},{typo:'C'},{typo:'D'},{typo:'E'},{typo:'F'},{typo:'G'},{typo:'H'},{typo:'I'},{typo:'G'},{typo:'K'},{typo:'L'},{typo:'M'},{typo:'N'},{typo:'O'},{typo:'P'},{typo:'Q'},{typo:'R'},{typo:'S'},{typo:'T'},{typo:'U'},{typo:'V'},{typo:'W'},{typo:'X'},{typo:'Y'},{typo:'Z'},]
